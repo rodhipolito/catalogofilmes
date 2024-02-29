@@ -56,6 +56,12 @@ const App = () => {
 
     }, []);
 
+    // Desativando os warnings para as funções não utilizadas
+    // eslint-disable-next-line no-unused-vars
+    const unusedWatchButtonWarning = handleWatchButtonClick;
+    // eslint-disable-next-line no-unused-vars
+    const unusedMyListButtonWarning = handleMyListButtonClick;
+
     return (
         <div className="page">
             <Header black={blackHeader} />
