@@ -10,7 +10,7 @@
 
 # Links e ferramentas utilizadas no projeto:
 
-DEPLOY - https://lnkd.in/esrg7W3h
+DEPLOY - [https://lnkd.in/esrg7W3h](https://catalogoflix.netlify.app/)
 
 https://lnkd.in/eYUGEVKU Bonieky Lacerda
 
